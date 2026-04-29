@@ -1,7 +1,6 @@
-<div class="max-w-2xl mx-auto mt-10 p-8 bg-gray-950 border border-gray-700 rounded-lg">
-	<h1 class="text-2xl font-bold text-center mb-6 text-cyan-400">Budgeted Income Statement</h1>
-</div>
-<div>
+<div class="mx-auto mt-10 max-w-2xl rounded-lg border border-gray-700 bg-gray-950 p-8">
+	<h1 class="mb-6 text-center text-2xl font-bold text-cyan-400">Budgeted Income Statement</h1>
+	<div class="flex justify-between border-b border-gray-700 py-3"></div>
 	<span>Gross Revenue</span>
 	<span>$150,000</span>
 </div>
